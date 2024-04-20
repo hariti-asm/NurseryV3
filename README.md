@@ -4,8 +4,8 @@
 
 ### Contexte du projet
 
-Ce projet consiste à construire un site web pour une pépinière O'PEP en utilisant PHP, avec l'objectif de le rendre facile à utiliser pour tout le monde
 
+This project involves building a website for a nursery called O'PEP using PHP, with the aim of making it user-friendly for everyone.
 
 ## Canva Presentation Link
 https://www.canva.com/design/DAF2bR0ToHQ/HUK-_iw-I7GV_rPN0fwGIQ/edit
