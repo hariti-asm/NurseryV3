@@ -5,24 +5,23 @@
 ### Contexte du projet
 
 Ce projet consiste à construire un site web pour une pépinière O'PEP en utilisant PHP, avec l'objectif de le rendre facile à utiliser pour tout le monde
-## Jira Planification Link
-https://aymaneelmaini.atlassian.net/jira/software/projects/OOV
+
 
 ## Canva Presentation Link
 https://www.canva.com/design/DAF2bR0ToHQ/HUK-_iw-I7GV_rPN0fwGIQ/edit
 
 ## Repository Link
-https://github.com/AymaneTech/Opep.V.3
+https://github.com/hariti-asm/NurseryV3
 
 
 
 Clone the project repository:
 
 ```bash
-> git clone https://github.com/AymaneTech/Opep.V.3.git
+> git clone https://github.com/hariti-asm/NurseryV3
 ```
 ```bash
-> cd Opep.V.3
+> cd NurseryV3
 ```
 ```bash
 > code .
